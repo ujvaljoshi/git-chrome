@@ -6,7 +6,7 @@ To install the development version and hack on this yourself;
 
 ```bash
 git clone git@github.com:patilarpith/git-chrome.git
-cd github-chrome
+cd git-chrome
 npm install coffee-script -g
 npm install haml-coffee compass mocha should
 cake build
